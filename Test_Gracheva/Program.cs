@@ -11,21 +11,24 @@
 // [“1234”, “1567”, “-2”, “computer science”] → [“-2”]
 // [“Russia”, “Denmark”, “Kazan”] → []
 
-string [] arrayInitial={"AAAAAA", "BBBBB", "CCCC", "DDD", "EE", "F"}; // Инициализация массива строк
+string[] arrayInitial = { "AAAAAA", "BBBBB", "CCCC", "DDD", "EE", "F" }; // Инициализация массива строк
 
-string [] ThreeLettersArray(string[] array)
+string[] ThreeLettersArray(string[] array)
 {
-    int count = 0;
-    //считаем кол-во строк с нужной длиной
-    for (int i=0; i<array.Length; i++) {
-        if (array[i].Length <= 3) {
+    int count = 0;                     //считаем кол-во строк с нужной длиной
+    for (int i = 0; i < array.Length; i++)
+    {
+        if (array[i].Length <= 3)
+        {
             count++;
         }
     }
-    string [] result = new string[count]; //Создаем новый массив нужной длины
-    int j = 0; //Индекс результирующего массива
-    for (int i=0; i<array.Length; i++) {
-        if (array[i].Length <= 3) {
+    string[] result = new string[count]; //Создаем новый массив нужной длины
+    int j = 0;                          //Индекс результирующего массива
+    for (int i = 0; i < array.Length; i++)
+    {
+        if (array[i].Length <= 3)
+        {
             result[j] = array[i];
             j++;
         }
@@ -33,7 +36,7 @@ string [] ThreeLettersArray(string[] array)
     return result;
 }
 
-void PrintArray(string[] array) 
+void PrintArray(string[] array)
 {
     Console.Write(String.Join(", ", array));
 }
