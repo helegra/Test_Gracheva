@@ -1,0 +1,15 @@
+C:\Users\pupsik\Desktop\GB\Домашка\Test\Test_Gracheva\bin\Debug\net6.0\Test_Gracheva.exe
+C:\Users\pupsik\Desktop\GB\Домашка\Test\Test_Gracheva\bin\Debug\net6.0\Test_Gracheva.deps.json
+C:\Users\pupsik\Desktop\GB\Домашка\Test\Test_Gracheva\bin\Debug\net6.0\Test_Gracheva.runtimeconfig.json
+C:\Users\pupsik\Desktop\GB\Домашка\Test\Test_Gracheva\bin\Debug\net6.0\Test_Gracheva.dll
+C:\Users\pupsik\Desktop\GB\Домашка\Test\Test_Gracheva\bin\Debug\net6.0\Test_Gracheva.pdb
+C:\Users\pupsik\Desktop\GB\Домашка\Test\Test_Gracheva\obj\Debug\net6.0\Test_Gracheva.csproj.AssemblyReference.cache
+C:\Users\pupsik\Desktop\GB\Домашка\Test\Test_Gracheva\obj\Debug\net6.0\Test_Gracheva.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pupsik\Desktop\GB\Домашка\Test\Test_Gracheva\obj\Debug\net6.0\Test_Gracheva.AssemblyInfoInputs.cache
+C:\Users\pupsik\Desktop\GB\Домашка\Test\Test_Gracheva\obj\Debug\net6.0\Test_Gracheva.AssemblyInfo.cs
+C:\Users\pupsik\Desktop\GB\Домашка\Test\Test_Gracheva\obj\Debug\net6.0\Test_Gracheva.csproj.CoreCompileInputs.cache
+C:\Users\pupsik\Desktop\GB\Домашка\Test\Test_Gracheva\obj\Debug\net6.0\Test_Gracheva.dll
+C:\Users\pupsik\Desktop\GB\Домашка\Test\Test_Gracheva\obj\Debug\net6.0\refint\Test_Gracheva.dll
+C:\Users\pupsik\Desktop\GB\Домашка\Test\Test_Gracheva\obj\Debug\net6.0\Test_Gracheva.pdb
+C:\Users\pupsik\Desktop\GB\Домашка\Test\Test_Gracheva\obj\Debug\net6.0\Test_Gracheva.genruntimeconfig.cache
+C:\Users\pupsik\Desktop\GB\Домашка\Test\Test_Gracheva\obj\Debug\net6.0\ref\Test_Gracheva.dll
